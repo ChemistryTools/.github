@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChemistryTools/ChemistryLab.jl/main/docs/src/assets/logo.png" width="220" alt="ChemistryTools logo"/>
+  <img src="logo.png" width="220" alt="ChemistryTools logo"/>
 
   # ChemistryTools
 
