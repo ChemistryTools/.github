@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChemistryTools/.github/main/profile/logo.png" width="220" alt="ChemistryTools logo"/>
+  <img src="https://raw.githubusercontent.com/ChemistryTools/.github/main/profile/logo.png" width="110" alt="ChemistryTools logo"/>
 
   # ChemistryTools
 
@@ -21,7 +21,7 @@ ChemistryTools is an open-source Julia ecosystem designed for researchers, engin
 [![Build Status](https://github.com/ChemistryTools/ChemistryLab.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/ChemistryTools/ChemistryLab.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://ChemistryTools.github.io/ChemistryLab.jl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://ChemistryTools.github.io/ChemistryLab.jl/dev/)
-[![DOI](https://zenodo.org/badge/1054296488.svg)](https://doi.org/10.5281/zenodo.17756074)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17756074-blue)](https://doi.org/10.5281/zenodo.17756074)
 
 ChemistryLab.jl is the central package of the ecosystem. It provides chemical formula handling, species management, stoichiometric matrix construction, and database interoperability (ThermoFun and Cemdata18). Its equilibrium engine drives Gibbs energy minimisation through a composable activity model interface and supports both aqueous speciation and multi-phase solid solution assemblages.
 
